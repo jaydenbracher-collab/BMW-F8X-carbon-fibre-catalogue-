@@ -1,80 +1,25 @@
 # BMW F8x Carbon Fibre Range Catalog
 
-Welcome to the official catalog for BMW F8x carbon fibre parts and accessories. Browse our complete range below.
+Welcome to the official catalog for BMW F8x carbon fibre parts and accessories. 
 
 ---
 
 ## Catalog Range
 
-### 1. Front Lips
-* **Details:** Standard / OEM Style
-* **Cost:** R6,000.00
-* ![Front Lip](styles:front-lips:front-lip-1.JPG)
-
-### 2. Side Skirts
-* **Details:** Side Blade Extension
-* **Cost:** R6,000.00
-* ![Side Skirt](styles:side-skirts:side-skirt-1.JPG)
-
-### 3. Rear Diffusers (LED Variant)
-* **Details:** LED Variant
-* **Cost:** R7,000.00
-* ![LED Diffuser](styles:rear-diffuser:led-variant-1.JPG)
-
-### 4. Rear Diffusers (MP Variant)
-* **Details:** MP (M-Performance) Variant
-* **Cost:** R5,000.00
-* ![MP Diffuser](styles:rear-diffuser:mp-varient-1.WEBP)
-
-### 5. Rear Diffusers (Vorsteiner Variant)
-* **Details:** Vorsteiner Variant
-* **Cost:** R7,000.00
-* ![Vorsteiner Diffuser](styles:rear-diffuser:vorsteiner-varient-1.WEBP)
-
-### 6. Rear + Front Bumper Inserts
-* **Details:** Bumper Inserts Set
-* **Cost:** R3,000.00
-* ![Bumper Inserts](styles:bumper-inserts:front-inserts-2.JPG)
-
-### 7. Mirror Covers
-* **Details:** Replacement Style
-* **Cost:** R2,800.00
-* ![Mirror Covers](styles:mirror-covers:replacement-style-1.JPG)
-
-### 8. Kidney Grills
-* **Details:** Double Slat Carbon
-* **Cost:** R4,500.00
-* ![Kidney Grills](styles:kidney-grills:double-slat-carbon-1.JPG)
-
-### 9. Boot Lid (CSL + GTS)
-* **Details:** CSL + GTS Style
-* **Cost:** R44,500.00
-* ![Boot Lid](styles:boot-lid:boot-lid-1.WEBP)
-
-### 10. GTS Style Bonnet
-* **Details:** Vented Hood
-* **Cost:** R21,000.00
-* ![GTS Bonnet](styles:gts-style-bonnet:vented-hood.JPG)
-
-### 11. Boot Spoilers
-* **Details:** High-kick / Ducktail
-* **Cost:** R3,000.00
-* ![Boot Spoilers](styles:boot-spoilers:boot-spoiler-1.JPG)
-
-### 12. Steering Wheel Trim
-* **Details:** Interior Accent
-* **Cost:** R3,500.00
-* ![Steering Trim](styles:steering-wheel-trim:trim-1.JPG)
-
-### 13. Gear Surround
-* **Details:** Center Console Trim
-* **Cost:** R1,600.00
-* ![Gear Surround](styles:gear-surround:centre-console-trim....JPG)
-
-### 14. Fenders
-* **Details:** Widebody / Carbon Fenders
-* **Cost:** R42,500.00
-* ![Fenders](styles:fenders:widebody-carbon-fenders.WEBP)
+* **1. Front Lips** | Style: Standard / OEM | Price: R6,000.00[span_1](start_span)[span_1](end_span)
+* **2. Side Skirts** | Style: Side Blade Extension | Price: R6,000.00[span_2](start_span)[span_2](end_span)
+* **3. Rear Diffusers (LED)** | Style: LED Variant | Price: R7,000.00[span_3](start_span)[span_3](end_span)
+* **4. Rear Diffusers (MP)** | Style: MP Variant | Price: R5,000.00[span_4](start_span)[span_4](end_span)
+* **5. Rear Diffusers (Vorsteiner)** | Style: Vorsteiner Variant | Price: R7,000.00[span_5](start_span)[span_5](end_span)
+* **6. Bumper Inserts** | Style: Front + Rear Set | Price: R3,000.00[span_6](start_span)[span_6](end_span)
+* **7. Mirror Covers** | Style: Replacement Style | Price: R2,800.00[span_7](start_span)[span_7](end_span)
+* **8. Kidney Grills** | Style: Double Slat Carbon | Price: R4,500.00[span_8](start_span)[span_8](end_span)
+* **9. Boot Lid** | Style: CSL + GTS Style | Price: R44,500.00[span_9](start_span)[span_9](end_span)
+* **10. GTS Style Bonnet** | Style: Vented Hood | Price: R21,000.00[span_10](start_span)[span_10](end_span)
+* **11. Boot Spoilers** | Style: High-kick / Ducktail | Price: R3,000.00[span_11](start_span)[span_11](end_span)
+* **12. Steering Wheel Trim** | Style: Interior Accent | Price: R3,500.00[span_12](start_span)[span_12](end_span)
+* **13. Gear Surround** | Style: Center Console Trim | Price: R1,600.00[span_13](start_span)[span_13](end_span)
+* **14. Fenders** | Style: Widebody Carbon | Price: R42,500.00[span_14](start_span)[span_14](end_span)
 
 ---
 *For orders or inquiries, please contact us.*
